@@ -1,0 +1,25 @@
+
+	header{
+		height: 54px;
+		font-size: 22px;
+		color: #3D58A6;
+		text-transform: uppercase;
+
+
+	}
+	li{
+		display:inline-block;
+		margin-right: 32px;		
+	}
+	#banner{
+		height: 440px;
+		background-color: #DAD8D7;
+		padding-top: 1px;
+
+	}
+	.banner-image{
+		width: 965px;
+		height: 380px;
+		margin: 30px auto 30px auto;
+					}
+	
